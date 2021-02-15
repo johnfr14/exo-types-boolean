@@ -1,4 +1,6 @@
 # Table de vérité de l'opération xor
+1 = true
+0 = false 
 
 |  Saisir |            |
 |---------|            |
