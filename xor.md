@@ -1,7 +1,7 @@
 # Table de vérité de l'opération xor
-|  Saisir |            |
+|  Saisir | Production |
 |---------|            |
-| UNE | b | Production |
+| UNE | b |            |
 |-----|---|------------|
 |  0  | 0 | 0 |
 |  0  | 1 | 1 |
